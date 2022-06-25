@@ -106,12 +106,12 @@ const styles = StyleSheet.create({
     marginVertical: 12,
   },
   button: {
-    width: 44,
-    height: 44,
-    borderRadius: 21,
+    width: 48,
+    height: 48,
+    borderRadius: 25,
     backgroundColor: "#000",
     position: "absolute",
-    bottom: 50,
+    bottom: 30,
     right: 15,
     shadowColor: "#000",
     shadowOffset: {
@@ -126,7 +126,7 @@ const styles = StyleSheet.create({
     fontSize: 42,
     color: "#fff",
     position: "absolute",
-    top: -8,
-    left: 9,
+    top: -7,
+    left: 12,
   },
 });
